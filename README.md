@@ -1,4 +1,4 @@
-#Vibe Matcher Notebook
+Vibe Matcher Notebook
 
 This project is a prototype semantic search engine, the "Vibe Matcher Notebook," built for an internship screening task.
 
